@@ -1,0 +1,6 @@
+Movies Example Application
+==========================
+
+This example implements the Neo4j Movies sample application using Grails 3.2.x, GORM 6.1.x and Neo4j 3.1.x.
+
+A tutorial for this sample application can be http://guides.grails.org/neo4j-movies[found in the Grails guides].
